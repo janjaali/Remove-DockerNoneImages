@@ -4,4 +4,4 @@ function Remove-DockerNoneImages {
     }
 }
 
-Export-ModuleMember -Function Remove-DockerNoneImage;
+Export-ModuleMember -Function Remove-DockerNoneImages;

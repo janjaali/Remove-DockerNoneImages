@@ -1,6 +1,6 @@
 @{
     
-        RootModule        = 'Remove-DockerNoneImage'
+        RootModule        = 'Remove-DockerNoneImages'
     
         ModuleVersion     = '1.0.1'
     
