@@ -26,7 +26,7 @@
             PSData = @{
                 Tags = @('Remove', 'Docker', 'None', 'NoneImages')
     
-                ProjectUri = 'https://github.com/janjaali/Remove-DockerNoneImage'
+                ProjectUri = 'https://github.com/janjaali/Remove-DockerNoneImages'
             }
         }
     }
